@@ -1,6 +1,6 @@
 # roadmap
 
-High-level roadmap for Filecoin Station
+High-level roadmap for Space Meridian projects: Filecoin Station, Spark, Meridian, Checker Network.
 
 ## Maintainer Guide
 
